@@ -1,0 +1,24 @@
+
+Enter the Map
+-> GoStraight
+-> data matrix(Calibration, 9.0)
+-> TurnLeft
+
+Mission1
+-> GoStraight
+-> 13.204498 cm in front of the wall
+-> Reverse parking
+-> MINIST
+(0)
+-> Snapshot
+-> Exit parking
+-> Exit Mission1
+
+Mission2
+-> GoStraight
+-> TurnRight and enter Mission2
+-> GoStraight to spot
+-> Scan object by PING:
+-> PING object type(Unknown)
+
+---------- End ----------
